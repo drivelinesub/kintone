@@ -1,0 +1,174 @@
+<div class="designportal designportal-basic">
+    <!--PC用（801px以上端末）メニュー-->
+    <nav id="menubar">
+      <ul class="inner">
+        <li><a href="https://1oxk3hwxylv4.cybozu.com/k/#/space/9/thread/11">総合<span>Home</span></a></li>
+        <li><a href="https://1oxk3hwxylv4.cybozu.com/k/#/space/5/thread/7">総務部<span>General affairs</span></a></li>
+        <li><a href="#https://1oxk3hwxylv4.cybozu.com/k/#/space/9/thread/11">人事部<span>Human resource</span></a></li>
+        <li><a href="https://1oxk3hwxylv4.cybozu.com/k/#/space/8/thread/10">経理部<span>Accounting</span></a></li>
+        <li><a href="https://1oxk3hwxylv4.cybozu.com/k/#/space/4/thread/6">営業部<span>Sales</span></a></li>
+        <li><a href="https://1oxk3hwxylv4.cybozu.com/k/#/space/11/thread/13">マーケティング部<span>Marketing</span></a></li>
+      </ul>
+    </nav>
+    <!--小さな端末用（800px以下端末）メニュー-->
+    <nav id="menubar-s">
+      <ul class="inner">
+        <li><a href="https://1oxk3hwxylv4.cybozu.com/k/#/space/9/thread/11">ホーム<span>Home</span></a></li>
+        <li><a href="https://1oxk3hwxylv4.cybozu.com/k/#/space/5/thread/7">総務部<span>General affairs</span></a></li>
+        <li><a href="#https://1oxk3hwxylv4.cybozu.com/k/#/space/9/thread/11">人事部<span>Human resource</span></a></li>
+        <li><a href="https://1oxk3hwxylv4.cybozu.com/k/#/space/8/thread/10">経理部<span>Accounting</span></a></li>
+        <li><a href="https://1oxk3hwxylv4.cybozu.com/k/#/space/4/thread/6">営業部<span>Sales</span></a></li>
+        <li><a href="https://1oxk3hwxylv4.cybozu.com/k/#/space/11/thread/13">マーケティング部<span>Marketing</span></a></li>
+      </ul>
+    </nav>
+  
+    
+
+    <!--メイン-->
+    <div id="contents" class="inner">
+      <div id="contents-in">
+        <div id="main">
+          <article>
+            <iframe width="800" height="610" frameborder="0"
+              src="https://1oxk3hwxylv4.cybozu.com/k/105/"></iframe>
+          </article>
+
+        </div>
+        <!--/#main-->
+  
+        <!--左メニュー-->
+        <div id="sub">
+          <section>
+            <h2>Apps</h2>
+            <!-- CreateNewApp -->
+            <div class="list">
+              <a href="https://1oxk3hwxylv4.cybozu.com/k/#/space/9/thread/11/market">
+                <figure><img src="https://1oxk3hwxylv4.cybozu.com/k/api/record/download.do/-/light.png?app=133&thumbnail=true&field=8240626&detectType=true&record=8&row=9690&id=665&hash=4dfff22063fbda0b2f33e74e781dd5e8460d2806&revision=1&.png&w=50&h=50&flag=SHRINK"></figure>
+                  <h4>新規アプリ作成</h4>
+                  <p>新規アプリ作成を行います。デフォルトでは総合スペースに作成されます。</p>
+              </a>
+            </div>
+            <!-- DailyReport -->
+            <div class="list">
+              <a href="https://1oxk3hwxylv4.cybozu.com/k/75/">
+                <figure><img src="https://1oxk3hwxylv4.cybozu.com/k/api/record/download.do/-/daily.png?app=133&thumbnail=true&field=8240626&detectType=true&record=6&row=9686&id=663&hash=95d47f95fa9083c4ac1cc54897a6747cd3022adb&revision=1&.png&w=50&h=50&flag=SHRINK"></figure>
+                  <h4>日報</h4>
+                  <p>日報です。</p>
+              </a>
+            </div>
+            <!-- File -->
+            <div class="list">
+              <a href="https://1oxk3hwxylv4.cybozu.com/k/118/">
+                <figure><img src="https://1oxk3hwxylv4.cybozu.com/k/api/record/download.do/-/filefolder.png?app=133&thumbnail=true&field=8240626&detectType=true&record=7&row=9688&id=664&hash=3a72c7c1a5180b66600e2d9af7ff236ec4d9c94b&revision=1&.png&w=50&h=50&flag=SHRINK"></figure>
+                  <h4>書類管理</h4>
+                  <p>書類をまとめて管理します。</p>
+              </a>
+            </div>
+            <!-- Employee -->
+            <div class="list">
+              <a href="https://1oxk3hwxylv4.cybozu.com/k/40/">
+                <figure><img src="https://1oxk3hwxylv4.cybozu.com/k/api/record/download.do/-/business_card.png?app=133&thumbnail=true&field=8240626&detectType=true&record=9&row=9692&id=670&hash=482e4981b4d5d19dab425fc01deac53a1dc1badc&revision=1&.png&w=50&h=50&flag=SHRINK"></figure>
+                  <h4>全社員管理</h4>
+                  <p>全社員をまとめて管理します。</p>
+              </a>
+            </div>
+            <!-- AppsManagement -->
+            <div class="list">
+              <a href="https://1oxk3hwxylv4.cybozu.com/k/119/">
+                <figure><img src="https://1oxk3hwxylv4.cybozu.com/k/api/record/download.do/-/smartphone.png?app=133&thumbnail=true&field=8240626&detectType=true&record=1&row=9410&id=589&hash=fbacad0be2a9077a2fe581343b2b88c311693444&revision=1&.png&w=50&h=50&flag=SHRINK"></figure>
+                  <h4>アプリ管理</h4>
+                  <p>全アプリの管理を行います。</p>
+              </a>
+            </div>
+            <!-- FAQ -->
+            <div class="list">
+              <a href="https://1oxk3hwxylv4.cybozu.com/k/76/">
+                <figure><img src="https://1oxk3hwxylv4.cybozu.com/k/api/record/download.do/-/teacher_female.png?app=133&thumbnail=true&field=8240626&detectType=true&record=11&row=9701&id=678&hash=a073d60e252b8f102ffb78449690037726a91685&revision=1&.png&w=50&h=50&flag=SHRINK"></figure>
+                  <h4>FAQ</h4>
+                  <p>社内手続きに関する、よくある質問と回答をFAQ形式で登録できます。</p>
+              </a>
+            </div>
+            <!-- Figures -->
+            <div class="list">
+              <a href="https://1oxk3hwxylv4.cybozu.com/k/133/">
+                <figure><img src="https://1oxk3hwxylv4.cybozu.com/k/api/record/download.do/-/image_df.png?app=133&thumbnail=true&field=8240626&detectType=true&record=10&row=9699&id=673&hash=c779db3c66cef6698ab9092f1a525010fb247f9f&revision=1&.png&w=50&h=50&flag=SHRINK"></figure>
+                  <h4>画像置き場</h4>
+                  <p>ポータル編集用の画像が置いてあります。</p>
+              </a>
+            </div>
+          </section>
+  
+          <div class="notice">
+            <h2>お知らせ</h2>
+
+            <p>これ以降の予定は<a href="/k/698/"><font color="#3498db">こちら</font></a></p>
+            </div>
+  
+          </div>
+          <!--/#sub-->
+        </div>
+        <!--/#contents-in-->
+  
+        <!--右メニュー-->
+        <div id="side">
+          <section>
+            <h2>フォームブリッジ連携</h2>
+  
+            <div class="list">
+              <a href="https://c5488938.form.kintoneapp.com/public/0039573e6bd55ebf7a904f39207e01f92fcdaf90303f28fff97730054758fcf1">
+                <figure><img src="https://1oxk3hwxylv4.cybozu.com/k/api/record/download.do/-/budget.png?app=133&thumbnail=true&field=8240626&detectType=true&record=4&row=9557&id=605&hash=a3bbbc725956700dca51e4bb2233b2d2a34fd98c&revision=2&.png&w=50&h=50&flag=SHRINK"></figure>
+                  <h4>経費申請</h4>
+                  <p>経費申請を行うフォームです。</p>
+              </a>
+            </div>
+            <div class="list">
+              <a href="https://c5488938.form.kintoneapp.com/public/c36b2a927169d8c59e3011288e96bc78b598595458635e61a47438388a28fe64">
+                <figure><img src="https://1oxk3hwxylv4.cybozu.com/k/api/record/download.do/-/airplane.png?app=133&thumbnail=true&field=8240626&detectType=true&record=2&row=9552&id=594&hash=3a507abb8f08de490a9a0a8ba9fc2d5b9b1e1d22&revision=1&.png&w=50&h=50&flag=SHRINK"></figure>
+                  <h4>有給休暇申請</h4>
+                  <p>有給休暇申請を行うフォームです。 </p>
+              </a>
+            </div>
+            <div class="list">
+              <a href="https://c5488938.form.kintoneapp.com/public/373a731d7e7eab124e3f228d302fcddf2074617810648f4ae653f9ba98b0459d">
+                <figure><img src="https://1oxk3hwxylv4.cybozu.com/k/api/record/download.do/-/car_red.png?app=133&thumbnail=true&field=8240626&detectType=true&record=13&row=10253&id=806&hash=4800be14b36681f29d5e72dd723afe0397b24eab&revision=2&.png&w=50&h=50&flag=SHRINK"></figure>
+                  <h4>交通費申請</h4>
+                  <p>交通費申請を行うフォームです。 </p>
+              </a>
+            </div>
+          </section>
+        </div>
+        <!--/#side-->
+  
+      </div>
+      <!--/#contents-->
+    </div>
+    <div class="boxes">
+    <div class="box">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+    <div class="box">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+    <div class="box">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+    <div class="box">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+</div>
+    <!--まずは「マウスカーソル用」と「追従するストーカー用」に2つ、空のdivタグを作っておきます。-->
+<body>
+    <div id="cursor"></div>
+    <div id="stalker"></div>
